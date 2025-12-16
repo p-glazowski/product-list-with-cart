@@ -6,7 +6,7 @@ A simple React shopping cart app built with Vite. Displays food products, allows
 
 ![screenshot](./screenshot.png)
 
-➡️ **Live site:** [https://dzik0.github.io/product-list-with-cart/](https://dzik0.github.io/product-list-with-cart/)
+➡️ **Live site:** [https://p-glazowski.github.io/product-list-with-cart/](https://dzik0.github.io/product-list-with-cart/)
 
 ## 🚀 Technologies Used
 
@@ -25,7 +25,7 @@ A simple React shopping cart app built with Vite. Displays food products, allows
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/Dzik0/product-list-with-cart.git
+git clone https://github.com/p-glazowski/product-list-with-cart.git
 cd product-list-with-cart
 npm install
 npm run dev
